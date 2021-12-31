@@ -15,9 +15,3 @@ print('Part 1 solution:'+str(min_delta_sum))
 delta_nc_sum = [sum(pos) for pos in delta_notconst]
 min_delta_nc_sum = min(delta_nc_sum)
 print('Part 2 solution:'+str(min_delta_nc_sum))
-
-
-
-    
-
-
